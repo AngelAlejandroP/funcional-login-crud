@@ -1,0 +1,12 @@
+npm i express express-handlebars express-session mysql express-mysql-session morgan bcryptjs passport passport-local timeago.js connect-flash express-validator
+
+npm nodemon -D
+----------------------------------
+En scripts poner 
+"dev": "nodemon src/index.js"
+
+Y para correlo es 
+npm run dev
+----------------------------------
+
+2:25 horas
